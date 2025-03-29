@@ -30,3 +30,11 @@ section#telefone{
     background:url(../frame-iphoneatualizado.png);
     background-repeat: no-repeat;
 }
+
+iframe#tela{
+    position: relative;
+    top: 62px;
+    left: 18px;
+    width: 201px;
+    height: 355px;
+}
